@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: c7d9290c39b0f494b9765de5417bb4e4
+timeCreated: 1454384717
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head_Water
+    21300002: Body_Water
+    21300004: RArmUpper_Water
+    21300006: RArmLower_Water
+    21300008: LArmUpper_Water
+    21300010: LArmLower_Water
+    21300012: OrbAttack_Water
+    21300014: RLegLower_Water
+    21300016: RLegUpper_Water
+    21300018: LLegLower_Water
+    21300020: LLegUpper_Water
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 64
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Head_Water
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 51
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5795912, y: 0.12597686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Body_Water
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 26
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RArmUpper_Water
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 52
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.4324678, y: 0.915321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RArmLower_Water
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 39
+        width: 6
+        height: 11
+      alignment: 9
+      pivot: {x: 0.46623388, y: 0.92360896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LArmUpper_Water
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 52
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.44935098, y: 0.915321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LArmLower_Water
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 39
+        width: 6
+        height: 11
+      alignment: 9
+      pivot: {x: 0.4662342, y: 0.94202703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: OrbAttack_Water
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RLegLower_Water
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 13
+        height: 5
+      alignment: 9
+      pivot: {x: 0.94415224, y: 0.33792287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RLegUpper_Water
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 14
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.2861487, y: 0.93636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LLegLower_Water
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 14
+        width: 13
+        height: 5
+      alignment: 9
+      pivot: {x: 0.95194423, y: 0.33792287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LLegUpper_Water
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 14
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.2861489, y: 0.93636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 0034b15da1cb48c4ebdb340a7e6945fa
+timeCreated: 1454262511
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fire_Idle1
+    21300002: Fire_Idle2
+    21300004: Fire_Idle3
+    21300006: Fire_Run1
+    21300008: Fire_Run2
+    21300010: Fire_Run3
+    21300012: Fire_Attack
+    21300014: Water_Idle1
+    21300016: Water_Idle2
+    21300018: Water_Idle3
+    21300020: Water_Run1
+    21300022: Water_Run2
+    21300024: Water_Run3
+    21300026: Water_Attack
+    21300028: Earth_Idle1
+    21300030: Earth_Idle2
+    21300032: Earth_Idle3
+    21300034: Earth_Run1
+    21300036: Earth_Run2
+    21300038: Earth_Run3
+    21300040: Earth_Attack
+    21300042: Air_Idle1
+    21300044: Air_Idle2
+    21300046: Air_Idle3
+    21300048: Air_Run1
+    21300050: Air_Run2
+    21300052: Air_Run3
+    21300054: Air_Attack
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 128
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Fire_Idle1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 102
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fire_Idle2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 102
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fire_Idle3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 102
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fire_Run1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fire_Run2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 102
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fire_Run3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 102
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Fire_Attack
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 102
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Water_Idle1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 78
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Water_Idle2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 78
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Water_Idle3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 78
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Water_Run1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 78
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Water_Run2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 78
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Water_Run3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 78
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Water_Attack
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 78
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Earth_Idle1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 54
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Earth_Idle2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 54
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Earth_Idle3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 54
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Earth_Run1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 54
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Earth_Run2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 54
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Earth_Run3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 54
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Earth_Attack
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 54
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air_Idle1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 29
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air_Idle2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 29
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air_Idle3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 29
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air_Run1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 29
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air_Run2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 29
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air_Run3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 29
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air_Attack
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 29
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 8ad5e0b3b9ead5d4b97ef5e1cbd15be1
+timeCreated: 1454468400
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head_Earth
+    21300002: RArmUpper_Earth
+    21300004: RArmLower_Earth
+    21300006: LArmUpper_Earth
+    21300008: LArmLower_Earth
+    21300010: Body_Earth
+    21300012: RLegUpper_Earth
+    21300014: LLegUpper_Earth
+    21300016: RLegLower_Earth
+    21300018: LLegLower_Earth
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 64
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Head_Earth
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28961182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RArmUpper_Earth
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 46
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.51125526, y: 0.7493483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RArmLower_Earth
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49
+        width: 7
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.81168514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LArmUpper_Earth
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 46
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.511255, y: 0.76493275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LArmLower_Earth
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 49
+        width: 7
+        height: 13
+      alignment: 9
+      pivot: {x: 0.51447135, y: 0.8350619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Body_Earth
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 20
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RLegUpper_Earth
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 25
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.62380815, y: 0.8662303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LLegUpper_Earth
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 25
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5900421, y: 0.87402284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RLegLower_Earth
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 11
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.53376603, y: 0.8629839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LLegLower_Earth
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 11
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.53376555, y: 0.8629839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: f0fb4cf2bef9c364aa5fed48ab82234e
+timeCreated: 1454275253
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head_Fire
+    21300002: Body_Fire
+    21300004: RArmLower_Fire
+    21300006: RArmUpper_Fire
+    21300008: LArmLower_Fire
+    21300010: LArmUpper_Fire
+    21300012: RLegUpper_Fire
+    21300014: RLegLower_Fire
+    21300016: RFoot_Fire
+    21300018: LLegUpper_Fire
+    21300020: LLegLower_Fire
+    21300022: LFoot_Fire
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 64
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Head_Fire
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 46
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.6870114, y: 0.4240265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Body_Fire
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 24
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RArmLower_Fire
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 46
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.77272475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RArmUpper_Fire
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 47
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5920889, y: 0.5844148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LArmLower_Fire
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 46
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.511255, y: 0.7961012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LArmUpper_Fire
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 0.57367116, y: 0.5675316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RLegUpper_Fire
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 27
+        width: 8
+        height: 11
+      alignment: 9
+      pivot: {x: 0.4873376, y: 0.7854757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RLegLower_Fire
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 12
+        width: 8
+        height: 11
+      alignment: 9
+      pivot: {x: 0.6646092, y: 0.8223112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: RFoot_Fire
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6
+        width: 10
+        height: 3
+      alignment: 9
+      pivot: {x: 0.3581829, y: 0.8376592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LLegUpper_Fire
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 27
+        width: 8
+        height: 11
+      alignment: 9
+      pivot: {x: 0.4873376, y: 0.81310236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LLegLower_Fire
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 12
+        width: 8
+        height: 11
+      alignment: 9
+      pivot: {x: 0.70259523, y: 0.81310236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LFoot_Fire
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 6
+        width: 10
+        height: 3
+      alignment: 9
+      pivot: {x: 0.40883178, y: 0.66882926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

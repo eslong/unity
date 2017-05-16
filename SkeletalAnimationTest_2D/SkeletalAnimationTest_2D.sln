@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BD18D614-8E2E-9EC3-3841-565F4498F0B9}") = "SkeletalAnimationTest_2D", "Assembly-CSharp.csproj", "{AD7CCCA7-9637-2334-90D0-225307410853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD7CCCA7-9637-2334-90D0-225307410853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7CCCA7-9637-2334-90D0-225307410853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7CCCA7-9637-2334-90D0-225307410853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7CCCA7-9637-2334-90D0-225307410853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
